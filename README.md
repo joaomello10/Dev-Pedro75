@@ -2,7 +2,7 @@
 
 ###   I'am 14 years old and Front-end developer
 
-### Technologies that I am studying ⬇️
+### Technologies that I am studying:
 
 <div display='flex'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='50'>
