@@ -11,7 +11,7 @@
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' width='70'>
 </div>
 
-![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Pedro75&show_icons=true&theme=drácula)
+![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Pedro75&show_icons=true&theme=radical)
 
 
 
