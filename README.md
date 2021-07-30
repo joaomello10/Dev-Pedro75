@@ -1,6 +1,5 @@
 <h1 align='center'>Hi I'm João Pedro 👋</h1>
 
- 
 <h3 align='center'> I'am 14 years old and Front-end developer<h3>
 
 <h3 align='center'>Technologies that I am studying:<h3>
@@ -20,7 +19,10 @@
   <img width='50px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'/>
   <img width='50px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'/>
 </div>
-  <a href="https://www.linkedin.com/in/joao-pedro-mello/"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-  
-  
-<h3 align='center'>My linkedin : https://www.linkedin.com/in/joao-pedro-mello/<h3>
+ 
+<br>
+ 
+<div align='center'>
+  <a href="https://www.linkedin.com/in/joao-pedro-mello/" target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+</div>
+ 
