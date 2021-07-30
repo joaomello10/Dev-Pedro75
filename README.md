@@ -1,23 +1,26 @@
-<h1>Hi I'm João Pedro 👋</h1>
+<h1 align='center'>Hi I'm João Pedro 👋</h1>
 
-###   I'am 14 years old and Front-end developer
+ 
+<h3 align='center'> I'am 14 years old and Front-end developer<h3>
 
-### Technologies that I am studying:
-
-<div style="display: flex; align-items: center;">
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' width='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg' width='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' width='40'>
-</div>
+<h3 align='center'>Technologies that I am studying:<h3>
 
 <br>
-<div>
-  
+
+<div align='center'>
+  <img width='405px' src='https://github-readme-stats.vercel.app/api?username=Dev-Pedro75&show_icons=true&theme=radical'/>
+  <img width='400px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Pedro75&layout=compact&show_icons=true&theme=radical'/>
 </div>
-![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Pedro75&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Pedro75&layout=compact&show_icons=true&theme=radical)
-
-
-
-### My linkedin : https://www.linkedin.com/in/joao-pedro-mello/
+<br>
+  
+<div align='center'>
+  <img width='50px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
+  <img width='50px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
+  <img width='50px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
+  <img width='50px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'/>
+  <img width='50px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'/>
+</div>
+  <a href="https://www.linkedin.com/in/joao-pedro-mello/"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+  
+  
+<h3 align='center'>My linkedin : https://www.linkedin.com/in/joao-pedro-mello/<h3>
