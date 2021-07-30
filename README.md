@@ -12,8 +12,11 @@
 </div>
 
 <br>
-
+<div>
+  
+</div>
 ![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Pedro75&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Pedro75&layout=compact&show_icons=true&theme=radical)
 
 
 
