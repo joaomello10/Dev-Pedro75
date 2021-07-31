@@ -2,8 +2,6 @@
 
 <h3 align='center'> I'am 14 years old and Front-end developer<h3>
 
-<h3 align='center'>Technologies that I am studying:<h3>
-
 <br>
 
 <div align='center'>
@@ -11,6 +9,8 @@
   <img width='400px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Pedro75&layout=compact&show_icons=true&theme=radical'/>
 </div>
 <br>
+  
+<h3 align='center'>Technologies that I am studying:<h3>
   
 <div align='center'>
   <img width='50px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
