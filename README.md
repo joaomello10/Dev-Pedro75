@@ -10,14 +10,14 @@
 </div>
 <br>
   
-<h3 align='center'>Technologies that I am studying:<h3>
+<h3 align='center'>Technologies that I study:<h3>
   
 <div align='center'>
-  <img width='50px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
-  <img width='50px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
-  <img width='50px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
-  <img width='50px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'/>
-  <img width='50px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'/>
+  <img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
+  <img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
+  <img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
+  <img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'/>
+  <img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'/>
 </div>
  
 <br>
