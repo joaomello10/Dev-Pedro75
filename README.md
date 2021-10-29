@@ -1,4 +1,4 @@
-<h1 align='center'>Hi I'm João Pedro 👋</h1>
+<h1 align='center'>Hi I'm João Pedro <img width='40px' src='https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif'/></h1>
 
 <h3 align='center'>I am 14 years old and Front-End Developer<h3>
  
