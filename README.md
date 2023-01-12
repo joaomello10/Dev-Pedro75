@@ -3,12 +3,6 @@
 <h3 align='center'>I am 15 years old and Web development student<h3>
  
 <br>
-
-<div align='center'>
-  <img width='405px' src='https://github-readme-stats.vercel.app/api?username=Dev-Pedro75&show_icons=true&theme=radical'/>
-  <img width='400px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Pedro75&layout=compact&show_icons=true&theme=radical'/>
-</div>
-<br>
   
 <h3 align='center'>Technologies that I study:<h3>
   
