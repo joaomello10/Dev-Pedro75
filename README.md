@@ -1,6 +1,6 @@
 <h1 align='center'>Hi, I'm João <img width='40px' src='https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif'/></h1>
 
-<h3 align='center'>I am 15 years old and Web development student<h3>
+<h3 align='center'>I am 16 years old and Web development student<h3>
  
 <br>
   
