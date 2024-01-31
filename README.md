@@ -3,15 +3,11 @@
 <h3 align='center'>I am 16 years old and Web development student<h3>
  
 <br>
-  
-<h3 align='center'>Technologies that I study:<h3>
-  
+
 <div align='center'>
-  <img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
-  <img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
-  <img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
-  <img width='40px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'/>
-</div>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pedro75&layout=compact&)
+ </div>
  
 <br>
  
