@@ -1,6 +1,6 @@
-<h1 align='center'>Hi, I'm João <img width='40px' src='https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif'/></h1>
+<h1>Hi, I'm João <img width='40px' src='https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif'/></h1>
 
-<h3 align='center'>I am 16 years old and Web development student<h3>
+<h3>I am 16 years old and Web development student<h3>
  
 <br>
 
@@ -12,14 +12,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<div align='center'>
+<div>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pedro75&layout=compact&)
  </div>
  
 <br>
  
-<div align='center'>
+<div>
   <h3>My linkedin</h1>
   <a href="https://www.linkedin.com/in/joao-pedro-mello/" target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 </div>
